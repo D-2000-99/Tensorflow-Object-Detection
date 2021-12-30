@@ -2,7 +2,7 @@
 The Tensorflow 2 Object Detection API makes it possible for us to access state-of-the-art Object Detection models such as YOLO, SSD etc.  
 ![ezgif-7-d50a3e657c](https://user-images.githubusercontent.com/68558063/147720504-b85061a4-80ed-43d0-a06c-2a8bdbeb3dd9.gif)  
 
-This repo is my attempt at some Object detection following the excellently written TFOD tutorial: 
+This repo is my attempt at some Object detection following the excellently written TFOD tutorial: \n
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
 
 ## Template for training a custom Object Detection on Colab:  
