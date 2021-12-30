@@ -17,3 +17,5 @@ This is an attempt at recognizing guitars with a custom trained model.  <br>
 ## Video Object Detection: 
 Since videos are a set of moving images we can implement object detection on them by looping through images.  <br>
 [SSD_video_Project.ipynb](https://github.com/D-2000-99/Tensorflow-Object-Detection/blob/main/SSD_video_Project.ipynb)
+
+![download](https://user-images.githubusercontent.com/68558063/147762293-d94fa34f-d6ad-4b84-971d-6f072923b66d.png)
